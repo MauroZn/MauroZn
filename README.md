@@ -6,7 +6,9 @@ I’m a ***Junior Developer*** with a ***Higher Education Diploma*** in ICT (202
 
 I have experience working on ***Spring Boot*** back-end projects both in school and in a professional environment, and I’ve been developing ***Python*** projects independently to strengthen my programming skills. <br>
 
-Currently, I’m learning ***Angular*** and TypeScript to expand my front-end knowledge and become a more versatile developer. I’m passionate about programming and continuously study and build projects on my own to improve my skills and explore new technologies.
+I’m passionate about programming and technology. My curiosity keeps me learning every day, whether it’s in my field or outside of it, and that’s what makes me keep growing.
+
+Currently, I’m learning ***Angular*** and TypeScript to expand my front-end knowledge and become a more versatile developer.
 
 ---
 
