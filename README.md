@@ -41,6 +41,14 @@ Currently, I’m learning ***Angular*** and TypeScript to expand my front-end kn
 <a href="https://github.com/MauroZn/mat_exam_spring_boot_course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=mat_exam_spring_boot_course&show_icons=true&line_height=45&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mat_exam_spring_boot_course" />
 </a>
+<a href="https://github.com/MauroZn/spring-hibernate-angular-task-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=spring-hibernate-angular-task-manager&show_icons=true&line_height=45&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="spring-hibernate-angular-task-manager" />
+</a>
+
+#
+
 <a href="https://github.com/MauroZn/scikit_learn_london_house_prices_2025">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=scikit_learn_london_house_prices_2025&show_icons=true&line_height=45&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="scikit_learn_london_house_prices_2025" />
 </a>
+
+
