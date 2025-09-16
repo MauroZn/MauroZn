@@ -4,7 +4,8 @@
 
 I’m a ***Junior Developer*** with a ***Higher Education Diploma*** in ICT (2025). <br>
 
-I have experience working on ***Spring Boot*** back-end projects both in school and in a professional environment, and I’ve been developing ***Python*** projects independently to strengthen my programming skills. <br>
+I have experience working on ***Spring Boot*** back-end projects both in school and in a professional environment, and I’ve been developing ***Python*** projects independently to strengthen my programming skills.<br>
+I also have hands-on experience with ***Docker*** and have studied the core concepts of *Kubernetes*, using tools like *Minikube* for practice.
 
 I’m passionate about programming and technology. My curiosity keeps me learning every day, whether it’s in my field or outside of it, and that’s what makes me keep growing.
 
