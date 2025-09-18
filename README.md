@@ -7,9 +7,9 @@ I’m a ***Junior Developer*** with a ***Higher Education Diploma*** in ICT (202
 I have experience working on ***Spring Boot*** back-end projects both in school and in a professional environment, and I’ve been developing ***Python*** projects independently to strengthen my programming skills.<br>
 I also have hands-on experience with ***Docker*** and have studied the core concepts of *Kubernetes*, using tools like *Minikube* for practice.
 
-I’m passionate about programming and technology and thanks to my curiosity I keep learning something everyday, whether it’s in my current field or outside of it.
+I’m passionate about programming and technology, and thanks to my curiosity I keep learning something everyday, whether it’s in my current field or outside of it.
 
-Currently, I’m learning ***Angular*** and TypeScript to expand my front-end knowledge and become a more versatile developer.
+Currently I’m doing small projects with Spring Boot to improve my knowledge, while learning ***Angular*** and TypeScript to expand my front-end knowledge and become a more versatile developer.
 
 ---
 
