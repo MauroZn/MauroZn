@@ -35,16 +35,14 @@ Currently I’m doing small projects with Spring Boot to improve my knowledge, w
 
 #
 
-### 🗂️ Highlight Projects
-<a href="https://github.com/MauroZn/dslab.playandgo.test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=dslab.playandgo.test&show_icons=true&line_height=45&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dslab.playandgo.test" />
-</a>
-<a href="https://github.com/MauroZn/mat_exam_spring_boot_course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=mat_exam_spring_boot_course&show_icons=true&line_height=45&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mat_exam_spring_boot_course" />
-</a>
-<a href="https://github.com/MauroZn/spring-hibernate-angular-task-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=spring-hibernate-angular-task-manager&show_icons=true&line_height=45&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="spring-hibernate-angular-task-manager" />
-</a>
+## 🗂️ Highlight Projects
+
+[![dslab.playandgo.test](https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=dslab.playandgo.test&theme=github_dark)](https://github.com/MauroZn/dslab.playandgo.test)
+
+[![mat_exam_spring_boot_course](https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=mat_exam_spring_boot_course&theme=github_dark)](https://github.com/MauroZn/mat_exam_spring_boot_course)
+
+[![spring-hibernate-angular-task-manager](https://github-readme-stats.vercel.app/api/pin/?username=MauroZn&repo=spring-hibernate-angular-task-manager&theme=github_dark)](https://github.com/MauroZn/spring-hibernate-angular-task-manager)
+
 
 #
 
